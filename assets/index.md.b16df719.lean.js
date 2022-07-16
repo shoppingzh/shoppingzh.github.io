@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.20cbc04b.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"home","hero":{"name":null,"text":null,"actions":null}},"headers":[],"relativePath":"index.md"}'),n={name:"index.md"};function o(r,s,c,i,l,d){return a(),t("div")}var m=e(n,[["render",o]]);export{_ as __pageData,m as default};
