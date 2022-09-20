@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,a as n}from"./app.def37181.js";const b=JSON.parse('{"title":"\u539F\u7406\u89E3\u91CA","description":"","frontmatter":{},"headers":[],"relativePath":"project/babel/preset.md"}'),p={name:"project/babel/preset.md"},o=n("",9),l=[o];function r(t,c,i,d,D,_){return e(),a("div",null,l)}var y=s(p,[["render",r]]);export{b as __pageData,y as default};
