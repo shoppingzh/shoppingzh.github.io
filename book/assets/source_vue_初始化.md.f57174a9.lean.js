@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as l}from"./app.d02816dd.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"source/vue/\u521D\u59CB\u5316.md"}'),p={name:"source/vue/\u521D\u59CB\u5316.md"},o=l("",1),e=[o];function c(t,r,F,y,D,A){return n(),a("div",null,e)}const _=s(p,[["render",c]]);export{i as __pageData,_ as default};

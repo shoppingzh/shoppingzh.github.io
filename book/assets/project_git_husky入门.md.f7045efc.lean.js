@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./app.d02816dd.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/git/husky\u5165\u95E8.md"}'),a={name:"project/git/husky\u5165\u95E8.md"};function o(s,c,n,p,_,i){return r(),e("div")}const f=t(a,[["render",o]]);export{m as __pageData,f as default};

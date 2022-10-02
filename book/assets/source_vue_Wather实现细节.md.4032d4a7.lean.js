@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.d02816dd.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"source/vue/Wather\u5B9E\u73B0\u7EC6\u8282.md"}'),a={name:"source/vue/Wather\u5B9E\u73B0\u7EC6\u8282.md"};function o(s,c,n,_,p,d){return r(),t("div")}const u=e(a,[["render",o]]);export{m as __pageData,u as default};

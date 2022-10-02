@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.d02816dd.js";const i=JSON.parse('{"title":"\u539F\u7406\u89E3\u91CA","description":"","frontmatter":{},"headers":[],"relativePath":"project/babel/plugin.md"}'),p={name:"project/babel/plugin.md"},o=l("",34),e=[o];function c(t,r,F,y,D,A){return a(),n("div",null,e)}const d=s(p,[["render",c]]);export{i as __pageData,d as default};

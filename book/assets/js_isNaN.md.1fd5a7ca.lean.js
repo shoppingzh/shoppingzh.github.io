@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.d02816dd.js";const m=JSON.parse('{"title":"isNaN\u4E0ENumber.isNaN","description":"","frontmatter":{},"headers":[],"relativePath":"js/isNaN.md"}'),o={name:"js/isNaN.md"},t=e("",4),c=[t];function p(r,l,i,N,d,_){return n(),a("div",null,c)}const b=s(o,[["render",p]]);export{m as __pageData,b as default};
